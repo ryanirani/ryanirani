@@ -6,7 +6,7 @@
   - [Spell Checker .txt editor (Swing UI)](https://github.com/ryanirani/SpellCheck)
 - <b>C++</b>
   - [PayTrack: Workplace management and payroll system (Qt)](https://github.com/ryanirani/PayTrack)
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,7 +14,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: 
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
